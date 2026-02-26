@@ -22,14 +22,13 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 ```
 ROOT
 ├── README.md
-├── code/
+├── Code/
 │   ├── 0_data_preparation/
 │   │   └── flow_table_builder.py       # Builds flow tables from raw data
 │   ├── 1_curve_estimation/
 │   │   ├── platform1_curve_estimation.R
 │   │   ├── platform1_exponential.R
 │   │   ├── platform1_powerlaw.R
-│   │   ├── platform1_gaussian_process.R
 │   │   ├── platform2_curve_estimation.R
 │   │   ├── platform3_curve_estimation.R
 │   │   └── platform4_curve_estimation.R
@@ -38,6 +37,7 @@ ROOT
 │   │   └── platform1_incentives.py     # Pricing incentive analysis
 │   ├── 3_robustness/
 │   │   ├── alternative_cost_measures.R
+│   │   ├── platform1_gaussian_process.R
 │   │   └── alternative_spline_settings.R
 │   └── 4_visualization/
 │       ├── multicity_grid_curves.R
