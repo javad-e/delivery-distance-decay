@@ -54,10 +54,10 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 
 Socioeconomic data and data from **Platform #3** and **Platform #4** are publicly available:
 
-- **Platform #3** data: Eshtiyagh et al. (2023), available at [https://arxiv.org/abs/2306.10675](https://arxiv.org/abs/2306.10675)
-- **Platform #4** data: Lei et al. (2022), available at [https://pubsonline.informs.org/doi/10.1287/trsc.2022.1173](https://pubsonline.informs.org/doi/10.1287/trsc.2022.1173)
+- **Platform #3** data: Wu et al. (2023), available at [https://arxiv.org/abs/2306.10675](https://arxiv.org/abs/2306.10675)
+- **Platform #4** data: Merchán et al. (2022), available at [https://arxiv.org/abs/2306.10675](https://arxiv.org/abs/2306.10675)
 
-To protect privacy and commercial confidentiality, the proprietary datasets from **Platform #1** and **Platform #2** cannot be shared in full. However, de-identified and aggregated samples are available from the corresponding author upon reasonable request (d.j.graham@imperial.ac.uk).
+To protect privacy and commercial confidentiality, the proprietary datasets from **Platform #1** and **Platform #2** cannot be shared in full. However, de-identified and aggregated samples are available from the corresponding author upon reasonable request.
 
 ---
 
