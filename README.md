@@ -20,7 +20,7 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 ## Repository Structure
 
 ```
-📦 repository root
+ROOT
 ├── README.md
 ├── code/
 │   ├── 0_data_preparation/
@@ -45,7 +45,7 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 │       ├── stacked_bar_chart-distance.R
 │       ├── stacked_bar_chart-income.R
 │       └── platform1_visualizations.py
-└── figures/                            # All output figures
+└── figures/                           
 ```
 
 ---
@@ -54,8 +54,8 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 
 Socioeconomic data and data from **Platform #3** and **Platform #4** are publicly available:
 
-- **Platform #3** data: Wu et al. (2023), available at [https://arxiv.org/abs/2306.10675](https://arxiv.org/abs/2306.10675)
-- **Platform #4** data: Merchán et al. (2022), available at [https://arxiv.org/abs/2306.10675](https://arxiv.org/abs/2306.10675)
+- **Platform #3** data: Wu et al. (2023), available at [https://doi.org/10.48550/arXiv.2306.10675](https://doi.org/10.48550/arXiv.2306.10675)
+- **Platform #4** data: Merchán et al. (2022), available at [https://doi.org/10.1287/trsc.2022.1173](https://doi.org/10.1287/trsc.2022.1173)
 
 To protect privacy and commercial confidentiality, the proprietary datasets from **Platform #1** and **Platform #2** cannot be shared in full. However, de-identified and aggregated samples are available from the corresponding author upon reasonable request.
 
