@@ -9,6 +9,8 @@
 
 **Preprint:** [Link to be added]
 
+[![DOI](https://zenodo.org/badge/1167573676.svg)](https://doi.org/10.5281/zenodo.18790581)
+
 ---
 
 ## Abstract
