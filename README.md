@@ -1,13 +1,13 @@
 # Distance Decay in Online Deliveries and the Sustainability Impact of Pricing Incentives
 
-**Javad Eshtiyagh¹³ · Anupriya¹ · Daniel Hörcher¹² · Paolo Santi³ · Daniel J. Graham¹***
+**Javad Eshtiyagh¹·³ · Anupriya¹ · Daniel Hörcher¹·² · Paolo Santi³ · Daniel J. Graham¹***
 
 ¹ Transport Strategy Centre, Imperial College London, London, UK  
 ² Institute for Advanced Studies, Corvinus University of Budapest, Budapest, Hungary  
 ³ Senseable City Lab, Massachusetts Institute of Technology, Cambridge MA, USA  
 \* Corresponding author: d.j.graham@imperial.ac.uk
 
-📄 **Preprint:** [Link to be added]
+**Preprint:** [Link to be added]
 
 ---
 
@@ -22,8 +22,6 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 ```
 📦 repository root
 ├── README.md
-├── data/
-│   └── links.md                        # Links to all publicly available datasets
 ├── code/
 │   ├── 0_data_preparation/
 │   │   └── flow_table_builder.py       # Builds flow tables from raw data
@@ -54,7 +52,7 @@ The rapid expansion of last-mile delivery has reshaped urban logistics, yet the 
 
 ## Data Availability
 
-Socioeconomic data and data from **Platform #3** and **Platform #4** are publicly available. Links to all publicly accessible datasets are provided in [`data/links.md`](data/links.md).
+Socioeconomic data and data from **Platform #3** and **Platform #4** are publicly available:
 
 - **Platform #3** data: Eshtiyagh et al. (2023), available at [https://arxiv.org/abs/2306.10675](https://arxiv.org/abs/2306.10675)
 - **Platform #4** data: Lei et al. (2022), available at [https://pubsonline.informs.org/doi/10.1287/trsc.2022.1173](https://pubsonline.informs.org/doi/10.1287/trsc.2022.1173)
@@ -107,7 +105,7 @@ If you use this code or data in your work, please cite:
 @article{eshtiyagh2025distancedecay,
   title   = {Distance Decay in Online Deliveries and the Sustainability Impact of Pricing Incentives},
   author  = {Eshtiyagh, Javad and Anupriya and H{\"o}rcher, Daniel and Santi, Paolo and Graham, Daniel J.},
-  journal = {[Journal name to be added]},
+  journal = {[Under review]},
   year    = {2025},
   url     = {[Preprint URL to be added]}
 }
